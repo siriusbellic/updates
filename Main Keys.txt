@@ -1,0 +1,27 @@
+//Main Functions
+F1 = Help On/Off;
+F2 = Chat Window On/Off;
+F3 = Whisper Mode Window On/Off;
+F4 = Adjust Chat Window Size;
+F5 = Show Bank of Jewel && Currency Balance On/Off;
+F6 = Normal Chat On/Off;
+F7 = Party Chat On/Off;
+F8 = Guild Chat On/Off;
+F9 = Gens Chat On/Off && Auto Click (Attack) On/Off;
+F10 = Camera 3D On/Off;
+F11 = Reset Camera 3D;
+F12 = Minimiza o main.exe para a barra do relógio (tray);
+CTRL + 0 = Show Server Time and Location;
+HOME = MuHelper On/Off;
+END = Neblina On/Off;
+Scroll Mouse = 3D Camera Scroll;
+Tecla H = Hourly display of events;
+
+//Mudar chat do jogo a gosto
+1 - você entra no jogo e aperta F6 para separar o chat das mensagens exp.
+
+2 - com o chat aberto, aperte F6 para ativar as linhas dos jogadores ali <<, aperte uma vez.
+
+3 - com o chat ainda aberto, aperte F5 para abrir uma aba preta em cima do chat, que puxará as filas dos jogadores que estão perto de você.
+
+4 - com o chat ainda aberto, com a aba preta em cima do chat você aperta F4 para aumentar o tamanho do chat na lateral << use como quiser.

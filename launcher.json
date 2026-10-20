@@ -1,0 +1,14 @@
+{
+  "projectId": "proj-1809a18d",
+  "apiBase": "https://launchers.muzeiros.com",
+  "mainExecutable": "main.exe",
+  "launcherExecutable": "MuiniversO.exe",
+  "gameDir": "here",
+  "iconFile": "launcher-icon.png",
+  "preserveFiles": [
+    "launcher.json",
+    "launcher-icon.png",
+    "config.ini",
+    "settings.json"
+  ]
+}
