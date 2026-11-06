@@ -1,1 +1,0 @@
-1@Banner@http://localhost/banner.jpg@1@66@20100101@20991231@https://muniverso.com.br/mercado
